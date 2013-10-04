@@ -3,7 +3,7 @@ A tool to make docker on as easy to use as possible on OS X.
 
 ---
 
-Apollo is under heavy development. Currently being used and deveoped simultaneously in production at SpaceMonkey by Murphy Randle.
+Apollo is under heavy development. Currently being used and deveoped simultaneously in production at [Space Monkey Inc.](http://www.spacemonkey.com) by Murphy Randle.
 
 Expect a cleaner codebase and further documentation in the future.
 
